@@ -6,8 +6,7 @@ This project demonstrates basic DOM manipulation and event handling in JavaScrip
 - ➕ Increment the counter
 - ➖ Decrement the counter
 - 🔄 Reset the counter
-- ⚡ Instant update without page reload
-- 💡 Simple and clean user interface
+- ⚡ Save and Load the counter 
 
 ## 🛠️ Technologies Used
 - HTML
