@@ -1,5 +1,5 @@
 # Javascript-Counter
-A simple web-based number counter built using HTML, CSS, and JavaScript.
+A simple web-based number counter built using HTML and JavaScript.
 This project demonstrates basic DOM manipulation and event handling in JavaScript.
 
 ## 📌 Features
